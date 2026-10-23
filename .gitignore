@@ -19,7 +19,6 @@ Thumbs.db
 *.hea
 *.csv
 *.png
-*.pdf
 
 # Environment files
 .env

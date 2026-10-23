@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data and large artifacts
+*.mat
+*.hea
+*.csv
+*.png
+*.pdf
+
+# Environment files
+.env
+.env.*
